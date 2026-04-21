@@ -1,11 +1,11 @@
 ## 👋 Hi there! I'm AMAL NASIR
 
-🎓 I'm a Computer Science student and an aspiring **Data Analyst** and a UI UX Engineer. 
-💡 Currently expanding my skills in **SQL, Excel, Power BI, and Python**  
-🌐 Previously worked on **Front-end-development** and **UI UX Designing** 
-📊 Passionate about turning raw data into meaningful insights  
-🚀 Currently training at **10 Pearls** in Data Analytics & Science
-📈 Always curious to learn more about **data-driven decision-making**
+Computer Science Graduate with a growing passion for Software Quality Assurance (SQA).
+Developing strong skills in Manual Testing, Test Case Writing, and Bug Reporting.
+Completed Data Analytics Internships at 10 Pearls & Elevvo, gaining hands-on experience in data handling, analysis, and problem-solving.
+Background in Front-End Development & UI/UX Designing, which helps me understand user experience and product quality better.
+Focused on building reliable, user-friendly software through quality assurance and continuous learning.
+Always eager to explore new tools, improve testing skills, and contribute to delivering high-quality products.
 
 ---
 <h3 align="left">Languages and Tools:</h3>
