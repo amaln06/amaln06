@@ -1,9 +1,14 @@
 ## 👋 Hi there! I'm AMAL NASIR
 
-Computer Science Graduate with a growing passion for Software Quality Assurance (SQA) and working freelance as a Social Media Manager and Marketing. 
-Developing strong skills in Manual Testing, Test Case Writing, Bug Reporting, and understanding software behavior from a user perspective. 
-Completed Data Analytics Internships at 10 Pearls & Elevvo, gaining hands-on experience in data handling, analysis, and problem-solving, which strengthened my analytical and logical thinking for quality assurance tasks.
-Background in Front-End Development & UI/UX Designing helps me better understand user experience, interface behavior, and overall product quality. 
+🎓 Computer Science Graduate with a growing passion for Software Quality Assurance (SQA) and currently working as a freelance Social Media Manager & Marketing enthusiast.
+
+🔍 I specialize in Manual Testing, Test Case Writing, Bug Reporting, and analyzing software from a real user’s perspective to ensure quality and smooth user experience.
+
+📊 I have completed Data Analytics Internships at 10 Pearls & Elevvo, where I gained hands-on experience in data handling, analysis, and problem-solving — strengthening my logical thinking and attention to detail for QA work.
+
+🎨 My background in Front-End Development & UI/UX Designing helps me better understand how users interact with applications, improving my ability to identify usability and design issues.
+
+🚀 I’m passionate about building and delivering reliable, user-friendly, and high-quality software, while continuously learning new tools and improving my QA skills.
 
 ---
 <h3 align="left">Languages and Tools:</h3>
