@@ -8,7 +8,8 @@ Background in Front-End Development & UI/UX Designing helps me better understand
 ---
 <h3 align="left">Languages and Tools:</h3>
 
-<p align="left">
+<div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;">
+
   <a href="https://developer.android.com" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" width="40" height="40"/>
   </a>
@@ -133,7 +134,7 @@ Background in Front-End Development & UI/UX Designing helps me better understand
     <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" width="40" height="40"/>
   </a>
 
-</p>
+</div>
 
 
 ### 📫 Let's Connect!
